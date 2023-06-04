@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import myImg from "../../Assets/mine.jpg";
+import myImg from "../../Assets/mine.jfif";
 import Tilt from "react-parallax-tilt";
 function Home() {
   return (

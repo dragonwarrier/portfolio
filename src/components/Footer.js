@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Tangled Puzzle</h3>
+          <h3>Designed and Developed by Dragon Warrier</h3>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright&nbsp;&nbsp; © {year} &nbsp;&nbsp;&nbsp;L T F S</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/tangledpuzzle"
+                href="https://github.com/dragonwarrier"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
